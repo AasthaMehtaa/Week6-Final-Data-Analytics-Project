@@ -1,0 +1,27 @@
+Column,Description
+Order_ID,Unique order identifier
+Order_Date,Date on which the order was placed
+Customer_ID,Unique customer identifier
+Customer_Segment,Customer classification
+Region,Customer geographic region
+City,Customer city
+Sales_Channel,Sales channel used for purchase
+Product_ID,Unique product identifier
+Product_Name,Product name
+Category,Product category
+Quantity,Number of units purchased
+Unit_Price,Selling price per unit
+Discount_Percent,Discount percentage applied
+Gross_Sales,Sales value before discount
+Discount_Amount,Discount amount
+Shipping_Cost,Shipping cost for the order
+Payment_Fee,Payment processing fee
+Cost_of_Goods,Cost incurred for goods sold
+Return_Flag,Whether the order was returned
+Return_Quantity,Number of returned units
+Return_Amount,Value of returned products
+Net_Revenue,Revenue after discounts and returns
+Profit,Profit after major order-level costs
+Profit_Margin,Profit as a percentage of net revenue
+Payment_Method,Customer payment method
+Order_Status,Final order status
